@@ -1,4 +1,5 @@
 # HAKU – online store
+link https://haku-o2mq.onrender.com/
 
 A complete small-shop e-commerce site: storefront, cart, checkout (Cash on Delivery), order e-mails, order tracking and an admin panel.
 Zero npm dependencies: Node.js 22.13+ with its built-in SQLite, plain HTML/CSS/JS front-end.
