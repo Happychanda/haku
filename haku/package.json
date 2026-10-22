@@ -1,0 +1,14 @@
+{
+  "name": "haku-store",
+  "version": "1.0.0",
+  "description": "HAKU – small shop e-commerce website (zero-dependency Node.js + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test/e2e.js",
+    "seed": "node scripts/seed.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "dependencies": {}
+}
